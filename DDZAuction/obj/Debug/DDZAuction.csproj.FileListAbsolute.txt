@@ -1,0 +1,7 @@
+D:\GD\server\neo\DDZContract\DDZAuction\bin\Debug\DDZAuction.dll
+D:\GD\server\neo\DDZContract\DDZAuction\bin\Debug\DDZAuction.pdb
+D:\GD\server\neo\DDZContract\DDZAuction\bin\Debug\Neo.SmartContract.Framework.dll
+D:\GD\server\neo\DDZContract\DDZAuction\obj\Debug\DDZAuction.csproj.CoreCompileInputs.cache
+D:\GD\server\neo\DDZContract\DDZAuction\obj\Debug\DDZAuction.csproj.CopyComplete
+D:\GD\server\neo\DDZContract\DDZAuction\obj\Debug\DDZAuction.dll
+D:\GD\server\neo\DDZContract\DDZAuction\obj\Debug\DDZAuction.pdb

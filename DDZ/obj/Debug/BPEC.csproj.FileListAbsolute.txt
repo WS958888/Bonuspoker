@@ -1,0 +1,8 @@
+D:\GD\server\neo\DDZContract\ddz\bin\Debug\DDZ.dll
+D:\GD\server\neo\DDZContract\ddz\bin\Debug\DDZ.pdb
+D:\GD\server\neo\DDZContract\ddz\bin\Debug\Neo.SmartContract.Framework.dll
+D:\GD\server\neo\DDZContract\ddz\obj\Debug\BPEC.csproj.CoreCompileInputs.cache
+D:\GD\server\neo\DDZContract\ddz\obj\Debug\BPEC.csproj.CopyComplete
+D:\GD\server\neo\DDZContract\ddz\obj\Debug\DDZ.dll
+D:\GD\server\neo\DDZContract\ddz\obj\Debug\DDZ.pdb
+D:\GD\server\neo\DDZContract\ddz\obj\Debug\BPEC.csprojAssemblyReference.cache
